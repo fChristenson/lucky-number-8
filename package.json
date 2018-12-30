@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fChristenson/lucky-number-8/issues"
   },
-  "homepage": "https://github.com/fChristenson/lucky-number-8#readme"
+  "homepage": "https://github.com/fChristenson/lucky-number-8#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
 }
